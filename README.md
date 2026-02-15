@@ -38,4 +38,5 @@ A Python-based Expense Tracking System to manage daily expenses, categorize tran
 
 ---
 
-## 🏗️ P
+## 🏗️ Project Structure
+
