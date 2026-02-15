@@ -1,22 +1,41 @@
 # Expense Tracking System
 
-A Python-based Expense Tracking System to manage daily expenses, categorize transactions, and analyze spending patterns. Built using FastAPI, Streamlit, and MySQL with full CRUD functionality and monthly analytics dashboard.
+A Python-based Expense Tracking System to manage daily expenses, categorize transactions, and analyze spending patterns. Built using **FastAPI**, **Streamlit**, and **MySQL** with full CRUD functionality and a monthly analytics dashboard.
 
 ---
 
-## Project Structure
+## 🎥 Application Demo
 
-- **frontend/**: Contains the Streamlit application code.
-- **backend/**: Contains the FastAPI backend server code.
-- **tests/**: Contains test cases for both frontend and backend.
-- **requirements.txt**: Lists the required Python packages.
-- **README.md**: Provides project overview and setup instructions.
+![Application Demo](assets/demo.gif)
 
 ---
 
-## Setup Instructions
+## 📸 Screenshots
 
-### Clone the repository
-```bash
-git clone https://github.com/ItsDebis/Expense-tracking-system.git
-cd Expense-tracking-system
+### ➤ Add / Update Expenses
+![Add and Update](assets/Add_and_Update.png)
+
+### ➤ Analytics By Category
+![Analytics By Category](assets/Analytics_by_Category.png)
+
+### ➤ Analytics By Months
+![Analytics By Months](assets/Analytics_by_Monthly.png)
+
+---
+
+## 🚀 Features
+
+- Add, update, and delete daily expenses
+- Categorize transactions (Food, Shopping, Entertainment, Rent, etc.)
+- Date-based expense tracking
+- Category-wise analytics with percentage breakdown
+- Monthly expense summary by year
+- Interactive dashboard using Streamlit
+- RESTful APIs built with FastAPI
+- MySQL database integration
+- Structured logging
+- Backend and frontend test cases
+
+---
+
+## 🏗️ P
