@@ -1,34 +1,22 @@
-# Expense Management System
+# Expense Tracking System
 
-This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
+A Python-based Expense Tracking System to manage daily expenses, categorize transactions, and analyze spending patterns. Built using FastAPI, Streamlit, and MySQL with full CRUD functionality and monthly analytics dashboard.
 
+---
 
 ## Project Structure
 
 - **frontend/**: Contains the Streamlit application code.
-- **backend/**: Con
-- tains the FastAPI backend server code.
-- **tests/**: Contains the test cases for both frontend and backend.
+- **backend/**: Contains the FastAPI backend server code.
+- **tests/**: Contains test cases for both frontend and backend.
 - **requirements.txt**: Lists the required Python packages.
-- **README.md**: Provides an overview and instructions for the project.
+- **README.md**: Provides project overview and setup instructions.
 
+---
 
 ## Setup Instructions
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/expense-management-system.git
-   cd expense-management-system
-   ```
-1. **Install dependencies:**:   
-   ```commandline
-    pip install -r requirements.txt
-   ```
-1. **Run the FastAPI server:**:   
-   ```commandline
-    uvicorn server.server:app --reload
-   ```
-1. **Run the Streamlit app:**:   
-   ```commandline
-    streamlit run frontend/app.py
-   ```
+### Clone the repository
+```bash
+git clone https://github.com/ItsDebis/Expense-tracking-system.git
+cd Expense-tracking-system
