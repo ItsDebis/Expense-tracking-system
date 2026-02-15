@@ -151,3 +151,25 @@
 2026-02-09 19:06:55,316 - db_helper - INFO - Fetching expenses for 2024-08-07
 2026-02-09 19:07:00,250 - db_helper - INFO - Fetching expenses for 2024-08-10
 2026-02-09 19:07:07,259 - db_helper - INFO - Fetching expenses for 2024-09-02
+2026-02-15 13:14:12,972 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-15 13:14:20,366 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-15 13:14:30,689 - db_helper - INFO - Fetching expenses for 2024-08-01
+2026-02-15 13:14:39,077 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-15 13:16:14,754 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-15 13:18:06,477 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-15 13:19:30,338 - db_helper - INFO - Fetching expenses for 2024-08-02
+2026-02-15 13:20:01,421 - db_helper - INFO - Fetching expenses for 2024-08-03
+2026-02-15 13:20:02,813 - db_helper - INFO - Fetching expenses for 2024-08-03
+2026-02-15 13:25:19,571 - db_helper - INFO - Fetching expenses for 2024-08-03
+2026-02-15 13:25:45,106 - db_helper - INFO - Fetching expenses for 2024-08-03
+2026-02-15 13:26:14,759 - db_helper - INFO - Fetching expenses for 2024-08-03
+2026-02-15 13:26:16,880 - db_helper - INFO - Deleting expenses for 2024-08-03
+2026-02-15 13:26:16,928 - db_helper - INFO - Inserting expense: 2024-08-03, 95.0, Food
+2026-02-15 13:26:16,946 - db_helper - INFO - Inserting expense: 2024-08-03, 60.0, Food
+2026-02-15 13:26:16,956 - db_helper - INFO - Inserting expense: 2024-08-03, 20.0, Entertainment
+2026-02-15 13:26:16,966 - db_helper - INFO - Inserting expense: 2024-08-03, 120.0, Shopping
+2026-02-15 13:26:16,976 - db_helper - INFO - Inserting expense: 2024-08-03, 15.0, Other
+2026-02-15 13:26:25,090 - db_helper - INFO - Fetching expenses for 2024-08-03
+2026-02-15 13:26:25,835 - db_helper - INFO - Fetching expenses for 2024-08-03
+2026-02-15 13:26:52,816 - db_helper - INFO - Fetching expenses for 2024-08-03
+2026-02-15 13:26:53,461 - db_helper - INFO - Fetching expenses for 2024-08-03
